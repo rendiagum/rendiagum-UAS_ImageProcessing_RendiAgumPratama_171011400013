@@ -1,0 +1,2 @@
+# rendiagum-UAS_ImageProcessing_RendiAgumPratama_171011400013
+Tugas UAS Kecerdasan Buatan 07TPLE001
